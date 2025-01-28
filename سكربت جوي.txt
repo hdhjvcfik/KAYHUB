@@ -1,7 +1,7 @@
 wait(0.1)
 game.StarterGui:SetCore("SendNotification", {
     Title = "جارِ تحميل سكربت ";
-    Text = "سكربت المطورين جوي "; -- ARAB TEAM
+    Text = "سكربت المطور جوي "; -- ARAB TEAM
     Duration = 5;
 })
 
